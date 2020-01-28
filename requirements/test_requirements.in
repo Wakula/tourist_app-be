@@ -1,0 +1,6 @@
+Flask
+flake8
+marshmallow
+Flask-SQLAlchemy
+gunicorn
+pip-tools

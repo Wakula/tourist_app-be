@@ -1,0 +1,5 @@
+cd $1/cron_task;
+python3 -m venv venv;
+pip3 install psycopg2;
+. ../venv/bin/activate;
+python3 delete_non-activated_users.py;
